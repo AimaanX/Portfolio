@@ -1,0 +1,19 @@
+.styled-heading1 {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 36px;
+text-align: center;
+color:white;
+}
+.styled-heading2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    text-align: left;
+    color:white;
+    }
+    
+.styled-paragraph {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    text-align: left;
+    color:white; 
+}
